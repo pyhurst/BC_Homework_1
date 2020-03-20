@@ -84,7 +84,7 @@ p {
     background-color: #2589bd;
 }
 
-.eachBenefit {
+.benefits div {
     margin-bottom: 32px;
 }
 
@@ -93,24 +93,24 @@ h3 {
     text-align: center;
 }
 
-.eachBenefit img {
+.benefits div img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.eachContent {
+.content div {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     background-color: #0072bb;
 }
 
-.eachContent img {
+.content div img {
     max-height: 200px;
 }
 
-.eachContent h2 {
+.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
